@@ -2,7 +2,7 @@
 
 Kickstarter campaigns make ideas into reality. It’s where creators share new visions for creative work with the communities that will come together to fund them.
 
-# Project Overview
+## Project Overview
 
 In this project, an analysis has been conducted to answer the question and determine whether the length of a Kickstarter campaign contributes to its ultimate success or failure.
 
@@ -17,6 +17,10 @@ dates are:
 1. From the data analysis of the outcomes based on goals, it is observed that the lower the amount
 of the campaign goal higher is the chance of its success. For example, most of the successful
 campaigns have the goal amount less than $5000.
+
+![Outcomes based on Goals Image](https://github.com/ArchanaRohilla/Kickstarter_Analysis/blob/master/Outcomes_Goals.png)
+
+
 2. Also, it can be observed from the data of the outcomes based on the goals that the higher goal
 target increases its chances of failure. For example, the campaigns whose goal amount is more
 than $45000 are more prone to failure. The campaigns whose goal amount ranges between
