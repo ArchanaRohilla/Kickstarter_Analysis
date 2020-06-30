@@ -1,7 +1,8 @@
-# Kickstarter Analysis 
+# Kickstarter Analysis
+ 
+# Project Overview
 
-The attached files consists of the excel worksheet, pivot chart images and the report based on the analysis.
-
+In this project, a data analysis has been conducted to answer the question and determine whether the length of a Kickstarter campaign contributes to its ultimate success or failure.
 
 From the Kickstarter campaigns data analysis, we can say that the length of campaign contributes to its
 ultimate failure in most of the cases where the duration of the campaign is more than 30 days. In other
