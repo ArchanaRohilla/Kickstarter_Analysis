@@ -36,7 +36,7 @@ December the chances of success and failure were same (50:50).
 
 
 ## Suggestions 
-The data given should consists of the status of the canceled projects whether they will be re-launched or
+The given data  should consists of the status of the canceled projects whether they will be re-launched or
 dropped forever. The status of the live projects is also not clear. We can also include some categories like
 art, comics and fashion to broaden the area of coverage of the population of these Kickstarter Campaigns.
 Also, we can include the columns like backer’s reward or share from profit making (successful) campaigns.
