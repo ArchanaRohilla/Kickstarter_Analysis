@@ -12,7 +12,8 @@ words, most of the successful campaigns were having duration of 30 days or less.
 plays a key role in the success or failure of the campaign. The lower the goal amount target the higher is
 the chances of success. But some goal ranges like the one between $10000 to $25000 are susceptible to
 both failure and success depending upon other factors.
-The three conclusions from the analysis of the Kickstarter campaigns data based on the goals and launch
+
+* The three conclusions from the analysis of the Kickstarter campaigns data based on the goals and launch
 dates are:
 1. From the data analysis of the outcomes based on goals, it is observed that the lower the amount
 of the campaign goal higher is the chance of its success. For example, most of the successful
