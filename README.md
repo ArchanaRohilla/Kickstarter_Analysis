@@ -1,17 +1,13 @@
 # Kickstarter Analysis
-
 Kickstarter campaigns make ideas into reality. It’s where creators share new visions for creative work with the communities that will come together to fund them.
 
 ## Project Overview
-
 In this project, an analysis of Kickstarter campaigns for various theartre plays has been conducted to answer the question and determine whether the length of a Kickstarter campaign contributes to its ultimate success or failure.
 
-## Software
-
+## Tool
 Microsoft Excel
 
 ## Observations
-
 From the Kickstarter campaigns data analysis, we can say that the length of campaign contributes to its
 ultimate failure in most of the cases where the duration of the campaign is more than 30 days. In other
 words, most of the successful campaigns were having duration of 30 days or less. Also, the goal amount
@@ -33,7 +29,7 @@ target increases its chances of failure. For example, the campaigns whose goal a
 than $45000 are more prone to failure. The campaigns whose goal amount ranges between
 $10000 to $25000 have 50 percentage chances of either success or failure.
 
-* From the data analysis of the outcomes based on launch dates, it is observed that the most of the
+* SFrom the data analysis of the outcomes based on launch dates, it is observed that the most of the
 successful campaigns were launched in the months of May and June. Where as in the month of
 December the chances of success and failure were same (50:50).
 
